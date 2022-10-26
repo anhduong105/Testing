@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    float GPA;
     int total = 0;
+    float GPA;
     string conduct;
     cout << "Nhap diem trung binh: " << endl;
     cin >> GPA;
